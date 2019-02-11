@@ -6,7 +6,7 @@
 - Config/DefaultInput.ini ‚ğã‘‚«‚·‚é (Overwrite Config/DefaultInput.ini)
 
 ## ‚â‚Á‚½‚±‚Æ (What I have done)
-- Raw Input ‚Ìİ’è‚ğ’Ç‰Á‚µ‚½ (Added Raw Input settings)
+- Raw Input ‚Ìİ’è‚ğ DefaultInput.ini ‚Ö’Ç‰Á‚µ‚½ (Added Raw Input settings to DefaultInput.ini)
 ~~~
 [/Script/RawInput.RawInputSettings]
 ...
